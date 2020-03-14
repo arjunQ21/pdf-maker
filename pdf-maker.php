@@ -56,4 +56,4 @@ while(1){
 }
 
 $pdf->Output("F", $name.".pdf") ;
-echo "\nFile saved at '".__DIR__."/$name".".pdf'" ;
+echo "\nFile saved at '$name".".pdf'" ;

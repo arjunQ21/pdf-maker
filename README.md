@@ -1,4 +1,4 @@
-#pdf-maker
+# pdf-maker
 
 Make pdfs from images using this easy to use CLI, written in PHP.
 
@@ -12,7 +12,9 @@ run
     composer update
 on the folder this project has been copied to.
 
-**Running**
+**Running:**
 run
 
     php pdf-maker.php
+    //if on windows, simply run
+    pdf-maker
