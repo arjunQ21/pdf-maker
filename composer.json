@@ -1,0 +1,13 @@
+{
+    "name": "administrator/pdf-create",
+    "require": {
+        "setasign/fpdf": "^1.8",
+        "sybio/image-workshop": "^2.1"
+    },
+    "authors": [
+        {
+            "name": "arjunQ21",
+            "email": "be2018se604@gces.edu.np"
+        }
+    ]
+}
